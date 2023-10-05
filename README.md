@@ -1,5 +1,7 @@
-# this-is-cvision
+# :popcorn: this-is-cvision
 
-## notebooks
+## :books: notebooks, projects
+- 01-SegmentAnything + visualizer  
+- 02-Grounding DINO demo :t-rex:
 
-## Useful links
+## :link: Useful links
